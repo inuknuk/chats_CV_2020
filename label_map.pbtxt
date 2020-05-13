@@ -1,0 +1,28 @@
+item {
+    id: 0
+    name: 'Cat'
+}
+item {
+  id: 1
+  name: 'Coyote'
+}
+item {
+  id: 2
+  name: 'Dog'
+}
+item {
+  id: 3
+  name: 'Car'
+}
+item {
+  id: 4
+  name: 'Rodent'
+}
+item {
+  id: 5
+  name: 'Rodent'
+}
+item {
+  id: 6
+  name: 'Deer'
+}
