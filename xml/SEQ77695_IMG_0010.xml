@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>SEQ77695_IMG_0010.JPG</filename>
+  <path>C:\Users\ainuk\Documents\1. Projects\1. Internship Tahiti\OpenLabeling-master\main\input\SEQ77695_IMG_0010.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Rodent</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1109</xmin>
+      <ymin>940</ymin>
+      <xmax>1287</xmax>
+      <ymax>1079</ymax>
+    </bndbox>
+  </object>
+</annotation>

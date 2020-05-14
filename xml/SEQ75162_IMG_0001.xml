@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>SEQ75162_IMG_0001.JPG</filename>
+  <path>C:\Users\ainuk\Documents\1. Projects\1. Internship Tahiti\OpenLabeling-master\main\input\SEQ75162_IMG_0001.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Deer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1618</xmin>
+      <ymin>470</ymin>
+      <xmax>2044</xmax>
+      <ymax>1022</ymax>
+    </bndbox>
+  </object>
+</annotation>

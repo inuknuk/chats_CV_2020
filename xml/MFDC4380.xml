@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>MFDC4380.JPG</filename>
+  <path>C:\Users\ainuk\Documents\1. Projects\1. Internship Tahiti\OpenLabeling-master\main\input\MFDC4380.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4032</width>
+    <height>2268</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Deer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>489</xmin>
+      <ymin>527</ymin>
+      <xmax>1452</xmax>
+      <ymax>1220</ymax>
+    </bndbox>
+  </object>
+</annotation>

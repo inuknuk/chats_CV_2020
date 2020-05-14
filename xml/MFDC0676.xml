@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>MFDC0676.JPG</filename>
+  <path>C:\Users\ainuk\Documents\1. Projects\1. Internship Tahiti\Ressources\Data Annotation Tool\OpenLabeling-master\main\input\MFDC0676.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4032</width>
+    <height>2268</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1693</xmin>
+      <ymin>1354</ymin>
+      <xmax>3269</xmax>
+      <ymax>2117</ymax>
+    </bndbox>
+  </object>
+</annotation>

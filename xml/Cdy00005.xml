@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>Cdy00005.JPG</filename>
+  <path>C:\Users\ainuk\Documents\1. Projects\1. Internship Tahiti\Ressources\Data Annotation Tool\OpenLabeling-master\main\input\Cdy00005.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2592</width>
+    <height>2000</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1166</xmin>
+      <ymin>491</ymin>
+      <xmax>2584</xmax>
+      <ymax>1291</ymax>
+    </bndbox>
+  </object>
+</annotation>
