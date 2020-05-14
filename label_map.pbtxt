@@ -1,8 +1,4 @@
 item {
-    id: 0
-    name: 'Cat'
-}
-item {
   id: 1
   name: 'Coyote'
 }
@@ -25,4 +21,8 @@ item {
 item {
   id: 6
   name: 'Deer'
+}
+item {
+    id: 7
+    name: 'Cat'
 }
